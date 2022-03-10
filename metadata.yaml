@@ -1,5 +1,8 @@
 _repo: An-Indian-Ass_67441
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67441-h/images/cover.jpg
 creator:
   author:
     agent_name: Acton, Harold
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50313
     wikipedia: https://en.wikipedia.org/wiki/Harold_Acton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67441#An-Indian-Ass
 gutenberg_issued: '2022-02-19'
 identifiers:
   gutenberg: '67441'
